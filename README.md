@@ -1,6 +1,4 @@
-# Trump Tracker
-
-[![Travis](https://img.shields.io/travis/TrumpTracker/trumptracker.github.io.svg?style=flat-square)](https://travis-ci.org/TrumpTracker/trumptracker.github.io) [![license](https://img.shields.io/github/license/TrumpTracker/trumptracker.github.io.svg?style=flat-square)](https://github.com/TrumpTracker/trumptracker.github.io/blob/master/LICENSE) [![Gitter](https://img.shields.io/gitter/room/TrumpTracker/trumptracker.github.io.svg?style=flat-square)](https://gitter.im/trump-tracker/Lobby) [![RSS](https://img.shields.io/badge/RSS-v2.0-brightgreen.svg?style=flat-square)](https://luithollander.nl/trumptracker/rss.php)
+# Election Promises Tracker
 
 # Setup
 
@@ -14,20 +12,22 @@ Site is now running at [localhost:4000](http://localhost:4000)
 
 # Contributing
 
-We'd love to get contributions from you! For a quick guide to getting your system setup for developing TrumpTracker take a look at the setup above. Once you are up and running, check out the [contributing guide](.github/PULL_REQUEST_TEMPLATE.md) to see how to get your changes and pull requests merged in.
+We'd love to get contributions from you! For a quick guide to getting your system setup for developing Election Promises Tracker take a look at the setup above. Once you are up and running, check out the [contributing guide](.github/PULL_REQUEST_TEMPLATE.md) to see how to get your changes and pull requests merged in.
 
 # To Do List
-1. Add Spanish Version
-2. ~~Cleaner way to add and handle policies (not hardcode it...)~~
-3. ~~Fuzzy Search functionality for policies~~
-4. ~~Comment section -- Reddit Integration (might be too toxic)~~
-5. Sign up for weekly/ bi-weekly updates when his term begins.
-6. ~~Database for Policies -- top of the agenda~~
-7. ~~Add Open Source Links and Credits on Footer~~
-8. ~~Clean up duplicates, if any.~~
-9. ~~Implement functionality to let me click on the "broken", "in progress", "achieved" categories so I can see which things fall into those categories.~~
-10. Rich data so Google can parse it. Maybe something on http://schema.org/?
-11. ~~Add tweet button #47~~
+0. Make it look better on mobile 
+0.5 Fix usability issues.
+1. Add a Submit a policy form process
+2. Comment section -- Reddit/Facebook/Discus/Other Integration 
+3. Find a good image for the Website
+4. Remove the hard coded references to the website 
+5. Convert all the links to the archived links
+6. Make it multi party compatible
+7. Rich data so Google can parse it. Maybe something on http://schema.org/?
+8. Introduce the concept of a sub catagory
+9. Multi Lingual capability to add Indian Langauges  
+9.5 Add hindi language
+10. Get some more Icons for sub catagories
 
 # Report Issues
 1. Pull Request would be the best option.
