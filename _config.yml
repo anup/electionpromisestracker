@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Election Promises Tracker
+title: Manifesto Tracker
 email: anuragkundu@electionpromisestracker.in
 description: > # this means to ignore newlines until "baseurl:"
-  Aam Aadmi Party's Promises with Election Promises Tracker.
+  Aam Aadmi Party's Promises with Manifesto Tracker.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
