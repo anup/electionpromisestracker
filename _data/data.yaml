@@ -76,7 +76,7 @@ promises:
     -
         title: Five Hundred New Schools & Infrastructure Improvement in Schools
         statement: AAP promised to open 500 new schools with special focus on secondary and senior secondary schools.
-        state: Number of schools have increased from 1007 in 2014-15 to 1024 in 2016-17. In addition to this, the Government is in process of constructing more than 8,000 new classrooms, most of which are nearing completion now.  If 80 rooms were to equate with constructing one school, the Government of Delhi will have constructed 100 schools in a few months from now. Additionally, media reports suggest Deputy Chief Minister committing to sanctioning construction of 10,000 more rooms in the upcoming budget. This will take the number of schools (in equivalent terms) to 242.
+        state: Number of schools have increased from 1007 in 2014-15 to 1030 in 2017-18. In addition to this, the Government is in process of constructing more than 8,000 new classrooms, most of which are nearing completion now. If 60 rooms were to equate with constructing one school, the Government of Delhi will have constructed 135 schools in a few months from now. Also, since there is a double shift concept of schools, the number of schools (in equivalent terms) would be equal to 270. The 2017-18 budget documents show that the government has sanctioned construction of 10,000 more classrooms (165 schools in equivalent terms). This will take the number of schools (in equivalent terms) to 600 when the construction work is complete.
         status: Under Progress
         category: School Education 
         tags:
@@ -85,6 +85,7 @@ promises:
         sources:
             - 'http://www.edudel.nic.in/mis/eis/frmSchoolList.aspx?type=8v6AC39/z0ySjVIkvfDJzvxkdDvmSsz7pgALKMjL3UI='
             - 'http://www.dailypioneer.com/city/8000-new-classrooms-by-july-this-year.html'        
+            - 'http://delhi.gov.in/DoIT/DoIT_Planning/OB201718.pdf'
     -
         title: Recruitment of Teachers
         statement: AAP promised to lower the student-teacher ratio by recruiting Seventeen thousand new teachers.
@@ -162,13 +163,14 @@ promises:
     -
         title: Staffing ICSD program and Anganwadis
         statement: AAP promised to fully staff and efficiently utiliz the ICDS program and Anganwadis.
-        state: Currently, there is 30% vacancy in Anganwadi workers, 21% at Supervisors level and 60% at CDPO level. Government of Delhi is yet to fill these vacancies.
-        status: Yet to Start
+        state: Currently, there is 5% vacancy in Anganwadi workers, 22% at Supervisors level and 60% at CDPO level. Government has allocated budget for the recruitment and salaries of the staff indicating government’s intention to fill all the vacancies
+        status: Under Progress
         category: Pre-Primary Education
         tags:
             - 'Pre-Primary Education, Aam Aadmi Party, AAP, Delhi Government, Kejriwal Government, Early Childhood Education, Anganwadis'
         comments: 
         sources:
+            - 'http://delhi.gov.in/DoIT/DoIT_Planning/OB201718.pdf'
     -
         title: Maintenance of education history of all students
         statement: AAP committed to building systems designed for maintenance of education history of all students across schools and for improving learning outcomes.
@@ -204,7 +206,7 @@ promises:
     -
         title: 20 New Colleges
         statement: AAP promised to open 20 new colleges in Delhi to avoid unnecessary migration of talented and motivated students to other states of India or abroad, due to an acute shortage of seats.
-        state: The government is in process of expanding Ambedkar University Delhi (AUD). 200 students have been admitted to four undergraduate course for the 2016-17 academic session at its new Campus at Karampura and is expected to accommodate over 2,200 students by 2019.  Three additional campus centres of AUD are proposed to be opened at Rohini, Dheerpur and Lodhi Road by 2019. Similarly, the bill to grant University status to Netaji Subhash Institute of Technology (NSIT) has already been approved that increases the number of students from its current 3,500 to 12,000 across its under-graduate, graduate and Ph.D courses. The bill, however, has been returned by the Lieutenant Governor for the reconsideration of Delhi Legislative Assembly. Delhi Technological University is proposing to set up a new campus in East Delhi.
+        state: The government is in process of expanding Ambedkar University Delhi (AUD). 200 students have been admitted to four undergraduate course for the 2016-17 academic session at its new Campus at Karampura and is expected to accommodate over 2,200 students by 2019. Three additional campus centres of AUD are proposed to be opened at Rohini, Dheerpur and Lodhi Road by 2019. Similarly, the bill to grant University status to Netaji Subhash Institute of Technology (NSIT) has already been approved that increases the number of students from its current 3,500 to 12,000 across its under-graduate, graduate and Ph.D courses. The bill, however, has been returned by the Lieutenant Governor for the reconsideration of Delhi Legislative Assembly. Delhi Technological University is proposing to set up a new campus in East Delhi. Number of seats in the 12 Delhi University Colleges that are under the administrative control of Delhi Government are proposed to be increased from 6251 to 7742, an increase of 24%. In addition, the 2017-18 budget documents show that the government has allocated for the construction of a Sports University and East Campus of Guru Gobind Singh Indraprastha University for School of Planning and Architecture.
         status: Under Progress
         category: College Education
         tags:
@@ -215,10 +217,11 @@ promises:
             - 'http://www.nsit.ac.in/article/7/'
             - 'http://indianexpress.com/article/india/after-dtc-fare-cuts-file-lg-anil-baijal-returns-nsit-bill-to-delhi-govt-4480286/'
             - 'http://navbharattimes.indiatimes.com/education/education-news/new-campus-of-delhi-technological-university-to-be-constructed-in-east-delhi/articleshow/56346410.cms'
+            - 'http://delhi.gov.in/DoIT/DoIT_Planning/OB201718.pdf'
     -
         title: Higher Education Guarantee Loan Scheme
         statement: AAP promised to ensure that all students graduating from Delhi schools who wish to pursue any Diploma/Degree be given bank loan with only one condition - securing admission.
-        state: Delhi Government unveiled its loan scheme in September 2015 to students and thus far 161 students have been sanctioned loans worth 4.1 crore rupees. 54 students were sanctioned loan in the year 2015-16 and 107 in the year 2016-17.
+        state: Delhi Government unveiled its loan scheme in September 2015 to students and thus far 161 students have been sanctioned loans worth 4.1 crore rupees. 54 students were sanctioned loan in the year 2015-16 and 131 in the year 2016-17. The government has made a budgetary allocation of 5 crore rupees in the financial year 2017-18 to grant loans to 150 students.
         status: Fulfilled
         category: College Education
         tags:
@@ -226,3 +229,4 @@ promises:
         comments: 
         sources:
             - 'http://indiatoday.intoday.in/education/story/education-loan/1/469874.html'
+            - 'http://delhi.gov.in/DoIT/DoIT_Planning/OB201718.pdf'
